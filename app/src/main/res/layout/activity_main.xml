@@ -16,7 +16,7 @@
         <ImageView
             android:id="@+id/android_cookie_image_view"
             android:layout_width="match_parent"
-            android:layout_height="517dp"
+            android:layout_height="500dp"
             android:layout_weight="1"
             android:scaleType="centerCrop"
             android:src="@drawable/before_cookie" />
